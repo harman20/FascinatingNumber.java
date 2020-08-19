@@ -1,0 +1,1 @@
+# FascinatingNumber.java
